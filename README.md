@@ -1,4 +1,4 @@
-# transit-app
+# TransIt App using Vue3
 
 ## Project setup
 ```
