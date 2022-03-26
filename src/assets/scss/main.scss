@@ -1,3 +1,14 @@
+@import './color.scss';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: $bg-color;
+
+    #homepage {
+        card {
+            width: 200px;
+        }
+    }
+}
